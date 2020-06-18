@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp",
+      "sdkFolder": "C:\\Users\\RitaRusetskaya\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app",
+      "makeFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\.cxx",
+      "cxxFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\RitaRusetskaya\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Un\\NativeLabs\\FilterMe\\FilterMe-AndroidApp\\app\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}
